@@ -7,7 +7,8 @@
 
 
 
-![<img scr="gato.avif" width="100">](gato.avif)
+![<img scr="gato.avif" width="100">](gato.avif)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">
 
 ##### *__Datos de contacto:__*   
 ##### Telefono: 61610000   
